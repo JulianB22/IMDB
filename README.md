@@ -4,7 +4,7 @@ This is a data exploration activity about film data pulled from IMDB.
 
 Two datasets are merged together, one with rating data and the other with film information. 
 
-The following six questions are answered:
+The following questions are answered:
 
 1.	According to the provided dataset, how many 2018 films were categorized as a Comedy? 
 
